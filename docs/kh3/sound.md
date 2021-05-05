@@ -328,51 +328,51 @@
 
 ## Remind BGM
 
-| Sound                    | Album name(s)                                       | Usage
-|--------------------------|-----------------------------------------------|-----------------------------------------------------------------------
-| BGM_battle_bt07_darkside | Dive into the Heart -Destati- Third Inception       | VS. Pink Darkside in Scala ad Caelum
-| BGM_battle_dw22_antiaqua | Aqua - Dark Dive-                                   | VS. Anti-Aqua (Keyblade Graveyard rematch)
-| BGM_battle_kg04_darkinf  | Anger Unchained                                     | VS. Dark Inferno χ
-| BGM_battle_kg06_armorx   | Dark Domination                                     | VS. Replica Xehanort as Kairi
-| BGM_battle_kg06_mission1 | Key of the Brave                                    | VS. Xehanorts Replica as Mickey 
-| BGM_battle_kg06_repx     | Replicas                                            | VS. Xehanorts Replica as Guardians of Light
-| BGM_battle_kg07_mission2 | Link to All - Lights of Destiny-                    | Unlocking keyholes
-| BGM_battle_kg08_terax    | Dismiss                                             | VS. Terra-Xehanort as Sora alone
-| BGM_battle_rg10          | Forze dell'Oscurita - Xehanort-                     | VS. Master Xehanort's recreated data
-| BGM_battle_rg11          | L'Eminenza Oscura I - Ansem-                        | VS. Ansem, Seeker of Darkness' recreated data
-| BGM_battle_rg12          | L'Oscurità dell'Ignoto - Xemnas-                    | VS. Xemnas' recreated data
-| BGM_battle_rg13          | The 13th Dilemma - Xigbar-                          | VS. Xigbar's recreated data
-| BGM_battle_rg14          | The 13th Dilemma - Saïx-                            | VS. Saïx's recreated data
-| BGM_battle_rg15          | The 13th Struggle - Luxord-                         | VS. Luxord's recreated data
-| BGM_battle_rg16          | Lord of the Castle - Marluxia-                      | VS. Marluxia's recreated data
-| BGM_battle_rg17          | The 13th Struggle - Larxene-                        | VS. Larxene's recreated data
-| BGM_battle_rg18          | Dismiss - Terra-Xehanort-                           | VS. Terra-Xehanort's recreated data
-| BGM_battle_rg19          | Forze Del Male - Dark Riku-                         | VS. Dark Riku's recreated data
-| BGM_battle_rg20          | Enter The Darkness - KINGDOM HEARTS III Version-    | VS. Vanitas' recreated data
-| BGM_battle_rg21          | L'Impeto Oscuro - Young Xehanort-                   | VS. Young Xehanort's recreated data
-| BGM_battle_rg22          | Vector to the Heavens - Xion-                       | VS. Xion's recreated data
-| BGM_battle_yozora        | Nachtflügel                                         | VS. Yozora
-| BGM_di_field_holo        | Destiny Islands                                     | Data Greeting's Destiny Island field theme
-| BGM_dp_field_holo        | The Promised Beginning                              | Data Greeting's Land of Departure field theme
-| BGM_dw_field_holo        | Night in the Dark Dream                             | Data Greeting's Dark World field theme
-| BGM_field_rg01           | Untitled track ("Radiant Garden" remix)             | Merlin's House field theme
-| BGM_field_rg03           | Cavern of Remembrance - KINGDOM HEARTS III Version- | Cavern of Remembrance's field theme
-| BGM_kg870r_cut           | Untitled track ("Terra" remix)                      |
-| BGM_kg870r_cut1          | Untitled track ("Dimiss" remix)                     |
-| BGM_kg870r_cut2          | Untitled track ("Terra" remix)                      |
-| BGM_kg870r_cut3          | Chains to Bonds                                     |
-| BGM_kg872r_cut1          | Untitled track (???)                                |
-| BGM_kg872r_cut2          | Untitled tracks (??? ; "Vector to the Heavens" remix) |
-| BGM_kg872r_cut3          | Untitled track ("Dearly Beloved" remix)              | 
-| BGM_kg872s_cut1          | Roxas' Return                                        |
-| BGM_kg872s_cut2          | Untitled track (???)                                 |
-| BGM_kg872t_cut1          | Untitled track ("The Other Promise" remix)           |
-| BGM_kg872t_cut2          | Untitled track ("Vector to the Heavens" remix)       |
-| BGM_kg872t_cut3          | Untitled tracks (??? ; "Roxas" remix)                 |
-| BGM_kg878_cut1           | Untitled tracks (??? ; "Destati" remix)               | (Kairi's crystallization)
-| BGM_kg878r_cut1          | Untitled tracks (??? ; "Destati" remix)               |
-| BGM_kg878r_cut2          | Untitled track ("The Key of Darkness" remix)          | (The χ-blade is forged)
-| BGM_kg878r_cut3          | Guardians of Light                                    |
+| Sound                    | Album name(s)                                                                        | Usage
+|--------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------
+| BGM_battle_bt07_darkside | Dive into the Heart -Destati- Third Inception                                        | VS. Pink Darkside in Scala ad Caelum
+| BGM_battle_dw22_antiaqua | Aqua - Dark Dive-                                                                    | VS. Anti-Aqua (Keyblade Graveyard rematch)
+| BGM_battle_kg04_darkinf  | Anger Unchained                                                                      | VS. Dark Inferno χ
+| BGM_battle_kg06_armorx   | Dark Domination                                                                      | VS. Replica Xehanort as Kairi
+| BGM_battle_kg06_mission1 | Key of the Brave                                                                     | VS. Xehanorts Replica as Mickey 
+| BGM_battle_kg06_repx     | Replicas                                                                             | VS. Xehanorts Replica as Guardians of Light
+| BGM_battle_kg07_mission2 | Link to All - Lights of Destiny-                                                     | Unlocking keyholes
+| BGM_battle_kg08_terax    | Dismiss                                                                              | VS. Terra-Xehanort as Sora alone
+| BGM_battle_rg10          | Forze dell'Oscurita - Xehanort-                                                      | VS. Master Xehanort's recreated data
+| BGM_battle_rg11          | L'Eminenza Oscura I - Ansem-                                                         | VS. Ansem, Seeker of Darkness' recreated data
+| BGM_battle_rg12          | L'Oscurità dell'Ignoto - Xemnas-                                                     | VS. Xemnas' recreated data
+| BGM_battle_rg13          | The 13th Dilemma - Xigbar-                                                           | VS. Xigbar's recreated data
+| BGM_battle_rg14          | The 13th Dilemma - Saïx-                                                             | VS. Saïx's recreated data
+| BGM_battle_rg15          | The 13th Struggle - Luxord-                                                          | VS. Luxord's recreated data
+| BGM_battle_rg16          | Lord of the Castle - Marluxia-                                                       | VS. Marluxia's recreated data
+| BGM_battle_rg17          | The 13th Struggle - Larxene-                                                         | VS. Larxene's recreated data
+| BGM_battle_rg18          | Dismiss - Terra-Xehanort-                                                            | VS. Terra-Xehanort's recreated data
+| BGM_battle_rg19          | Forze Del Male - Dark Riku-                                                          | VS. Dark Riku's recreated data
+| BGM_battle_rg20          | Enter The Darkness - KINGDOM HEARTS III Version-                                     | VS. Vanitas' recreated data
+| BGM_battle_rg21          | L'Impeto Oscuro - Young Xehanort-                                                    | VS. Young Xehanort's recreated data
+| BGM_battle_rg22          | Vector to the Heavens - Xion-                                                        | VS. Xion's recreated data
+| BGM_battle_yozora        | Nachtflügel                                                                          | VS. Yozora
+| BGM_di_field_holo        | Destiny Islands                                                                      | Data Greeting's Destiny Island field theme
+| BGM_dp_field_holo        | The Promised Beginning                                                               | Data Greeting's Land of Departure field theme
+| BGM_dw_field_holo        | Night in the Dark Dream                                                              | Data Greeting's Dark World field theme
+| BGM_field_rg01           | Untitled track ("Radiant Garden" remix)                                              | Merlin's House field theme
+| BGM_field_rg03           | Cavern of Remembrance - KINGDOM HEARTS III Version-                                  | Cavern of Remembrance's field theme
+| BGM_kg870r_cut           | Untitled track ("Terra" remix)                                                       |
+| BGM_kg870r_cut1          | Untitled track ("Dimiss" remix)                                                      |
+| BGM_kg870r_cut2          | Untitled track ("Terra" remix)                                                       |
+| BGM_kg870r_cut3          | Chains to Bonds                                                                      |
+| BGM_kg872r_cut1          | Untitled track (???)                                                                 |
+| BGM_kg872r_cut2          | Untitled tracks (??? ; "Vector to the Heavens" remix)                                |
+| BGM_kg872r_cut3          | Untitled track ("Dearly Beloved" remix)                                              | 
+| BGM_kg872s_cut1          | Roxas' Return                                                                        |
+| BGM_kg872s_cut2          | Untitled track (???)                                                                 |
+| BGM_kg872t_cut1          | Untitled track ("The Other Promise" remix)                                           |
+| BGM_kg872t_cut2          | Untitled track ("Vector to the Heavens" remix)                                       |
+| BGM_kg872t_cut3          | Untitled tracks (??? ; "Roxas" remix)                                                |
+| BGM_kg878_cut1           | Untitled tracks (??? ; "Destati" remix)                                              | (Kairi's crystallization)
+| BGM_kg878r_cut1          | Untitled tracks (??? ; "Destati" remix)                                              |
+| BGM_kg878r_cut2          | Untitled track ("The Key of Darkness" remix)                                         | (The χ-blade is forged)
+| BGM_kg878r_cut3          | Guardians of Light                                                                   |
 | BGM_kg878r_cut4          | Untitled tracks ("Musique pour la tristesse de Xion" remix ; "Dearly Beloved" remix) |
 | BGM_kg951_cut            | Scala ad Caelum                                                                      |
 | BGM_kg952_cut            | Untitled track ("Organization XIII" remix)                                           | (Xigbar and Luxord's dialogue)
