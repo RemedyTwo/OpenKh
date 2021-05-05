@@ -247,8 +247,8 @@
 | BGM_po503_cut         | Bounce-O-Rama                                                                               |
 | BGM_po504_cut         | Bounce-O-Rama                                                                               |
 | BGM_po505_cut         | Little Lovely Moments                                                                       |
-| BGM_poo_field         | Winnie-the-Pooh - KINGDOM HEARTS III Version-                                               |
-| BGM_poo_mini          | Bounce-O-Rama - KINGDOM HEARTS III Version-                                                 |
+| BGM_poo_field         | Winnie-the-Pooh - KINGDOM HEARTS III Version-                                               | The Hundred Acre Wood's field theme
+| BGM_poo_mini          | Bounce-O-Rama - KINGDOM HEARTS III Version-                                                 | The Hundred Acre Wood's mini-game theme
 | BGM_portal_battle_1   | Skyward Striker                                                                             | Battlegate 0, 1, 4, 7, 10, 12
 | BGM_portal_battle_2   | Eye of the Storm                                                                            | Battlegate 2, 3, 5, 6, 8, 9, 11, 13
 | BGM_portal_battle_3   | Anger Unchained                                                                             | Battlegate 14 (VS. Dark Inferno)
